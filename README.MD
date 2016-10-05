@@ -1,5 +1,5 @@
 Cartesian Product
-Author: Xuzhu Chen A201385468
+Author: GSephrioth
 
 Input: Table1.txt Table2.txt
 	They are following CSV pattern, encoded in UTF-8
